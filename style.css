@@ -71,7 +71,13 @@ td {
 }
 
 td .el-at {
+    
     width: 10%;
+}
+
+.el-at {
+    font-family: "Lucida Console", Courier, monospace;
+    background-color: khaki;
 }
 
 /*Footer*/
